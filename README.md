@@ -29,6 +29,24 @@ The smart contracts are written in Solidity and cover the following phases:
 - [Web3.js](https://web3js.readthedocs.io/)
 - [Solidity Compiler (solc)](https://soliditylang.org/)
 
+## Installation
+
+1. Clone the repository:
+    ```bash
+    git clone https://github.com/your-username/blockchain-network.git
+    cd blockchain-network
+    ```
+
+2. Install dependencies:
+    ```bash
+    npm install
+    ```
+
+3. Compile, deploy, and interact with contracts:
+    ```bash
+    npm start
+    ```
+    
 ## Running a Local Ethereum Network
 
 To interact with the contracts, you'll need to run a local Ethereum blockchain node (e.g., Ganache) or connect to an external testnet like Rinkeby.
