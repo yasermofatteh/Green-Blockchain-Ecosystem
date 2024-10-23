@@ -1,0 +1,13 @@
+{
+  "name": "blockchain-network",
+  "version": "1.0.0",
+  "description": "Blockchain-based network with smart contracts for product ordering, optimization, delivery, and confirmation",
+  "main": "deploy_and_interact.js",
+  "scripts": {
+    "start": "node migrations/deploy_and_interact.js"
+  },
+  "dependencies": {
+    "web3": "^1.6.0",
+    "solc": "^0.8.0"
+  }
+}
