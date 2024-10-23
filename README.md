@@ -33,7 +33,7 @@ The smart contracts are written in Solidity and cover the following phases:
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-username/blockchain-network.git
+    git clone https://github.com/yasermofatteh/Green-Blockchain-Ecosystem.git
     cd blockchain-network
     ```
 
